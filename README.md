@@ -4,7 +4,7 @@
 ## Sobre projeto
 - Criado durante o último nlw de 2023, o projeto visa ser um facilitador na vida de um criador de conteúdo. Realizando o upload de um vídeo a ferramenta é capaz de gerar a trascrição dele e ainda sugerir um título ou uma descrição criativa
 ## Tecnologias
-<div align="center"><img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,vite,prisma" alt="tecnologias" /></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,vite,prisma,sqlite" alt="tecnologias" /></div>
 
 ## Documentação API
 
